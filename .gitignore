@@ -1,0 +1,12 @@
+# Lines starting with `#` are comments.
+
+
+# Files
+config.json
+package-lock.json
+
+# Directories
+node_modules/
+
+# Extensions
+*.pdf
